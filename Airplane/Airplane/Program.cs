@@ -23,6 +23,22 @@ namespace Airplane
             twenty.flightNumber = 1145;
             Console.WriteLine(twenty.flightNumber);
             //Console.WriteLine("Hello World!");
+            //Console.ReadLine();
+
+            SevenSevenSeven threehundreder = new SevenSevenSeven();
+            threehundreder.airline = "Austrian Airlines";
+            threehundreder.manufacturer = "Boeing";
+            threehundreder.flightNumber = 1890;
+            Console.WriteLine(threehundreder.flightNumber);
+            //Console.WriteLine("Hello World!");
+            //Console.ReadLine();
+
+            SevenEightSeven eight = new SevenEightSeven();
+            eight.airline = "American";
+            eight.manufacturer = "Boeing";
+            eight.flightNumber = 1946;
+            Console.WriteLine(eight.flightNumber);
+            //Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
     }
