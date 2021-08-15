@@ -1,0 +1,16 @@
+E:\Code\airplane\Airplane\Airplane\bin\Debug\net5.0\Airplane.exe
+E:\Code\airplane\Airplane\Airplane\bin\Debug\net5.0\Airplane.deps.json
+E:\Code\airplane\Airplane\Airplane\bin\Debug\net5.0\Airplane.runtimeconfig.json
+E:\Code\airplane\Airplane\Airplane\bin\Debug\net5.0\Airplane.runtimeconfig.dev.json
+E:\Code\airplane\Airplane\Airplane\bin\Debug\net5.0\Airplane.dll
+E:\Code\airplane\Airplane\Airplane\bin\Debug\net5.0\ref\Airplane.dll
+E:\Code\airplane\Airplane\Airplane\bin\Debug\net5.0\Airplane.pdb
+E:\Code\airplane\Airplane\Airplane\obj\Debug\net5.0\Airplane.csproj.AssemblyReference.cache
+E:\Code\airplane\Airplane\Airplane\obj\Debug\net5.0\Airplane.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\airplane\Airplane\Airplane\obj\Debug\net5.0\Airplane.AssemblyInfoInputs.cache
+E:\Code\airplane\Airplane\Airplane\obj\Debug\net5.0\Airplane.AssemblyInfo.cs
+E:\Code\airplane\Airplane\Airplane\obj\Debug\net5.0\Airplane.csproj.CoreCompileInputs.cache
+E:\Code\airplane\Airplane\Airplane\obj\Debug\net5.0\Airplane.dll
+E:\Code\airplane\Airplane\Airplane\obj\Debug\net5.0\ref\Airplane.dll
+E:\Code\airplane\Airplane\Airplane\obj\Debug\net5.0\Airplane.pdb
+E:\Code\airplane\Airplane\Airplane\obj\Debug\net5.0\Airplane.genruntimeconfig.cache
