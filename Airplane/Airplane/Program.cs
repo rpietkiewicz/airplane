@@ -8,6 +8,8 @@ namespace Airplane
         {
             Console.WriteLine("*****Welcome to Airplane*****\n Press any key to continue.");
             Console.ReadLine();
+            Console.WriteLine("%%%%%Airplane is program where you can%%%%%\n%%%%%view a variety of information for%%%%%\n%%%%%popular airplanes. Press any key to continue%%%%%");
+            Console.ReadLine();
             SevenFourSeven fourhundred = new SevenFourSeven();
             fourhundred.airline = "Lufthansa";
             fourhundred.manufacturer = "Boeing";
