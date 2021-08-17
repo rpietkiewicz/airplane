@@ -44,7 +44,7 @@ namespace Airplane
             //Console.WriteLine("Hello World!");
             */
 
-            Console.WriteLine(GetFlightNumber(0));
+            Console.WriteLine(GetFlightNumber(4));
             Console.ReadLine();
         }
 
