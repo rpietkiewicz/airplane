@@ -125,7 +125,3 @@ namespace Airplane
         }
     }
 }
-//implement case rather than if statement
-//user enter Lufthansa-> return 7540
-//Air France->1145
-//n->n
