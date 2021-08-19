@@ -11,6 +11,10 @@ namespace Airplane
             Console.ReadLine();
             Console.WriteLine("%%%%%Airplane is program where you can%%%%%\n%%%%%view a variety of information for%%%%%\n%%%%%popular airplanes. Press any key to continue%%%%%");
             Console.ReadLine();
+            Console.WriteLine("%%%%%Airplane shows the departure times%%%%%\n%%%%%and the flight numbers in chronological order%%%%%\n%%%%%Press any key to continue%%%%%%");
+            Console.ReadLine();
+            Console.WriteLine("*****Press any key to see the list of airlines*****");
+            Console.ReadLine();
             SevenFourSeven fourhundred = new SevenFourSeven();
             fourhundred.airline = "Lufthansa (LH)";
             fourhundred.manufacturer = "Boeing";
@@ -43,8 +47,10 @@ namespace Airplane
             Console.WriteLine(eight.airline);
             //Console.WriteLine(eight.airline);
             //Console.WriteLine("Hello World!");
+            //Console.ReadLine();
+            Console.Write("\n");
+            Console.WriteLine("*****Continue pressing any key until you reach*****\n*****the bottom of the page*****");
             Console.ReadLine();
-
             Console.WriteLine(GetFlightNumber(0));
             Console.ReadLine();
             Console.WriteLine(GetDepartureTime(0));
@@ -125,3 +131,5 @@ namespace Airplane
         }
     }
 }
+//what about the terminal for each flight?
+//percentages in the console messages look kind of ugly..
